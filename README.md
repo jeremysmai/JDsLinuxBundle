@@ -3,6 +3,9 @@ Fresh System? Need packages quick? Bam.
 (Requirements: Linux - Debian)
 Most apps in this bundle are automatically included in most Linux Distributions, but if not here's a list to jog that memory.
 
+## Bottles Configs
+**Elder Scrolls Online** - This is the backup file for the bottles config I use. This config has more then the necessary dependenceis to get ESO to run on Bottles on Linux. Can even use minion to allow addons. No need for Windows anymore. [Link to Config File](backup_The-Elder-Scrolls-Online.yml.zip) (its a zipped .yml file) You will also need the Install_ESO.exe from the Official Website. *This is really for users who bought from the site stricly and not using steam or any other storefront.*
+
 ## Packages In Bundle
 (Compressed Download (to) Include Solarized Themes)
 Currently just a listing of must have apps on a fresh Linux System *according to jeremysmai*
